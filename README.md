@@ -1,6 +1,5 @@
 ## Bienvenue
-![DTA logo](C:\Users\ctorres\Desktop\git\ex1\DTA\LOGO-DTA-vectorise.png)
-&nbsp
+![DTA logo](LOGO-DTA-vectorise.png)  
 #Présentation de quelques commandes git
 
 `git branch`: Permet d'afficher la branche courante. (https://git-scm.com/docs/git-branch)
