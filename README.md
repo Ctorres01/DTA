@@ -1,5 +1,5 @@
 ## Bienvenue
-!(LOGO-DTA-vectorise.png)
+![DTA logo](C:\Users\ctorres\Desktop\git\ex1\DTA\LOGO-DTA-vectorise.png)
 &nbsp
 #Présentation de quelques commandes git
 
