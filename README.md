@@ -1,5 +1,5 @@
 ![DTA logo](LOGO-DTA-vectorise.png)  
-#Présentation de quelques commandes git
+## Présentation de quelques commandes git
 
 `git branch`: Permet d'afficher la branche courante. (https://git-scm.com/docs/git-branch)
 `git merge`: Permet de fusionner deux branches. /!\ ATTENTION: conflits éventuels /!\ (https://git-scm.com/docs/git-merge)
