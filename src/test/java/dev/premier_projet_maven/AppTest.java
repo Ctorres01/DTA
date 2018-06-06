@@ -1,4 +1,4 @@
-package dev;
+package dev.premier_projet_maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
